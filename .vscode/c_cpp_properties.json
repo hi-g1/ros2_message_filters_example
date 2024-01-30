@@ -1,0 +1,50 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/opt/ros/foxy/include/**",
+        "/root/ws/src/ceres-solver/include/**",
+        "/root/ws/src/external/Ultra-Fast-Lane-Detection-v2/evaluation/culane/include/**",
+        "/root/ws/src/fusion/include/**",
+        "/root/ws/src/fusion_sync/include/**",
+        "/root/ws/src/interpolated_lidar/include/**",
+        "/root/ws/src/kbub_velodyne_pkg_ros2/include/**",
+        "/root/ws/src/kbub_vision_pkg/include/**",
+        "/root/ws/src/kroad_lidar_pkg_ros2/include/**",
+        "/root/ws/src/lane_point_processing/include/**",
+        "/root/ws/src/lidarslam_ros2/Thirdparty/ndt_omp_ros2/include/**",
+        "/root/ws/src/lidarslam_ros2/graph_based_slam/include/**",
+        "/root/ws/src/lidarslam_ros2/pcl_localization_ros2/include/**",
+        "/root/ws/src/lidarslam_ros2/scanmatcher/include/**",
+        "/root/ws/src/mission/include/**",
+        "/root/ws/src/msg_sync/include/**",
+        "/root/ws/src/parking/include/**",
+        "/root/ws/src/parking_sync/include/**",
+        "/root/ws/src/pcl2marker/include/**",
+        "/root/ws/src/pubsubimg/include/**",
+        "/root/ws/src/ransac/include/**",
+        "/root/ws/src/save_jpg_pcd/include/**",
+        "/root/ws/src/static_test/include/**",
+        "/root/ws/src/stop_line/include/**",
+        "/root/ws/src/sync_img/include/**",
+        "/root/ws/src/sync_msg/include/**",
+        "/root/ws/src/velodyne/velodyne_driver/include/**",
+        "/root/ws/src/velodyne/velodyne_laserscan/include/**",
+        "/root/ws/src/velodyne/velodyne_pointcloud/include/**",
+        "/root/ws/src/velodyne_filter/include/**",
+        "/root/ws/src/vision/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
